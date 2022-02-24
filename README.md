@@ -3,17 +3,15 @@
 #根据CLIP原文以及source code的issue写的训练过程。
 
 
-## conda environment from OpanAI CLIP
+## conda environment
 
 https://github.com/openai/CLIP
 
-
-
-## train/finetune：
+## train/finetune
 
 python finetune/modified_train_float32.py
 
-## test：
+## test
 
 cd evaluation
 
