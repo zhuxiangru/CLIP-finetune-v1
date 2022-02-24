@@ -1,16 +1,20 @@
 # CLIP-finetune
 
-根据CLIP原文以及source code的issue写的训练过程。
+#根据CLIP原文以及source code的issue写的训练过程。
 
 
 #conda environment from OpanAI CLIP
+
 https://github.com/openai/CLIP
 
 #train/finetune：
+
 python finetune/modified_train_float32.py
 
 #test：
+
 cd evaluation
+
 python evluation.py
 
 讨论：
