@@ -3,7 +3,7 @@
 根据CLIP原文以及source code的issue写的训练过程。
 
 
-# conda environment from OpanAI CLIP
+#conda environment from OpanAI CLIP
 https://github.com/openai/CLIP
 
 #train/finetune：
